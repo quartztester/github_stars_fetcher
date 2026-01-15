@@ -1,5 +1,5 @@
-# Github Star List Fetcher
-Obtain your github stars in 1 click - a simple CLI and GUI to get your github stars in a list. Works on any operating system that can run python.
+#  :star: Github Star List Fetcher :star:
+Obtain your github stars in 1 click - a simple CLI and GUI to get your github stars in a list. Works on any operating system that can run python. Export in txt, csv, or markdown.
 
 ## Github Token Reccomended due to rate limiting.
 
